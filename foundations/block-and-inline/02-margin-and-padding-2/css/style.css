@@ -15,13 +15,13 @@ body {
 .content,
 .button-container {
   background: dodgerblue;
-  padding: 10px red;
-  border: 15px green;
-  margin: 20px yellow;
+  padding: 10px solid red;
+  border: 15px solid green;
+  margin: 20px solid yellow;
 }
 
 .title {
-  margin-top: -10px;
+  margin-top: -10;
 }
 
 button {
