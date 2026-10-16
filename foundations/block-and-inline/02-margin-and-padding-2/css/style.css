@@ -3,10 +3,6 @@ body {
   font-family: sans-serif;
 }
 
-* {
-  display: inline-block;
-}
-
 .card {
   width: 400px;
   background: white;
@@ -21,6 +17,7 @@ body {
   background: dodgerblue;
   border: 10px;
   padding: 10px;
+  display: inline-block;
 }
 
 button {
