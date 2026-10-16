@@ -4,10 +4,11 @@ body {
 }
 
 .card {
-  width: 800px;
+  width: 400px;
   background: white;
   margin: 16px auto;
   position: center;
+  font-size: 16px;
 }
 
 .title,
