@@ -3,6 +3,10 @@ body {
   font-family: sans-serif;
 }
 
+* {
+  display: inline-block;
+}
+
 .card {
   width: 400px;
   background: white;
@@ -21,7 +25,6 @@ body {
 
 button {
   background: white;
-  display: block;
   padding: 20px,40px,20px;
 }
 
@@ -30,6 +33,5 @@ span {
 }
 
 .title {
-  display: inline;
   border-top: 15px;
 }
