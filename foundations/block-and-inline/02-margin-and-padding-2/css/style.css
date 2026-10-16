@@ -4,7 +4,7 @@ body {
 }
 
 .card {
-  width: 400px;
+  width: 800px;
   background: white;
   margin: 16px auto;
   position: center;
@@ -16,10 +16,11 @@ body {
   background: dodgerblue;
   padding: 10px;
   border: 15px;
+  margin: 20px;
 }
 
 button {
   background: white;
-  display: inline;
+  display: block;
   padding: 10px,20px,10px;
 }
