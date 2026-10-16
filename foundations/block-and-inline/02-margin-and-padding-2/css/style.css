@@ -6,7 +6,7 @@ body {
 .card {
   width: 400px;
   background: white;
-  margin: 16px auto;
+  margin: 25px auto;
   position: center;
   font-size: 16px;
 }
@@ -15,9 +15,9 @@ body {
 .content,
 .button-container {
   background: dodgerblue;
-  padding: 10px solid red;
-  border: 15px solid green;
-  margin: 20px solid yellow;
+  padding: 10px;
+  border: 15px;
+  margin: 20px;
 }
 
 button {
