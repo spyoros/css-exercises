@@ -49,6 +49,7 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 16px;
+  margin-left: -23px;
 }
 
 /*.left-elements,*/
