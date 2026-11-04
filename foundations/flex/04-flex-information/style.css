@@ -5,6 +5,7 @@ body {
 img {
   width: 100px;
   height: 100px;
+  /*background: red;*/
 }
 
 .title {
@@ -43,4 +44,8 @@ img {
   flex-flow: column;
   align-items: center;
   width: 200px;
+}
+
+.text{
+  text-align: center;
 }
